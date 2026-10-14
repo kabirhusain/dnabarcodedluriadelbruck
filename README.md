@@ -8,8 +8,7 @@ adaptation* (Husain, Flagg, Pincus & Murugan).
 BarFly replaces the physically separate replicate cultures of a Luria-Delbrück fluctuation
 assay with DNA-barcoded lineages grown in one flask, and colony counting with deep sequencing.
 That gives >10⁵ statistical replicates in a single experiment, enough to resolve the shape of
-the Luria-Delbrück distribution — and so to tell apart mechanisms of adaptation that summary
-statistics cannot.
+the Luria-Delbrück distribution, and distinguish between different mechanisms of adaptation.
 
 ## Quick start
 

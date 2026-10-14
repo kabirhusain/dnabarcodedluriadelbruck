@@ -1,3 +1,5 @@
+<p align="center"><img src="20261014_barfly_logo.png" alt="BarFly" width="400"></p>
+
 # BarFly — analysis code
 
 Code and processed data for *A DNA-barcoded Luria-Delbrück assay resolves mechanisms of

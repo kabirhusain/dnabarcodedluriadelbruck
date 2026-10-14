@@ -1,0 +1,18 @@
+name: barfly
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.3
+  - scipy=1.16
+  - matplotlib=3.10
+  - seaborn=0.13
+  - numba=0.62
+  - mpmath=1.3
+  - pandas=2.3
+  - tqdm
+  - biopython=1.86          # pipeline/ only (FASTQ parsing)
+  - regex                   # pipeline/ only
+  - pip
+  - pip:
+      - palettable==3.3.3

@@ -23,10 +23,7 @@ Run first:
 python figures/20260907_expt3_fits.py --workers 18    # Expt 3 fit pipeline, ~8 min on 20 cores
 ```
 
-Everything else is a notebook, one per manuscript figure, committed with its outputs so the
-panels and fitted numbers are visible without running anything. To re-run, open them in order:
-each group is independent, but within a group the fit notebook writes parameters the others
-read.
+Run order:
 
 | order | notebook | |
 |---|---|---|

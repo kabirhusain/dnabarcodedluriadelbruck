@@ -46,9 +46,6 @@ Headless, in that order:
 jupyter nbconvert --to notebook --execute --inplace figures/20260907_figS04_expt1_fit.ipynb
 ```
 
-Panels land in `output/`, and SI Table 1 in `output/table01_bootstrap_cis.md`. A full
-re-run is about 30 minutes on 20 cores.
-
 ## Layout
 
 ```
